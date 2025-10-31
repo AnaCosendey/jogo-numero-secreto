@@ -1,4 +1,4 @@
-<h1>🎯 Jogo do Número Secreto</h1> 
+<h1> Jogo do Número Secreto</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-ESTRUTURA-orange?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Vercel-DEPLOY-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-> Status do Projeto: ✅ **Concluído**
+> Status do Projeto: :heavy_check_mark: **Concluído**
 
 ---
 
@@ -15,15 +15,14 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)  
 :small_blue_diamond: [Funcionalidades](#funcionalidades)  
-:small_blue_diamond: [Deploy da Aplicação](#layout-ou-deploy-da-aplicação-dash)  
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)  
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)  
 :small_blue_diamond: [Linguagens utilizadas](#linguagens-dependencias-e-libs-utilizadas-books)  
-:small_blue_diamond: [Desenvolvedora](#desenvolvedorescontribuintes-octocat)  
-:small_blue_diamond: [Licença](#licença)  
+:small_blue_diamond: [Desenvolvedora](#desenvolvedora-octocat)  
 
 ---
 
-## 🕹️ Descrição do projeto 
+##  Descrição do projeto 
 
 <p align="justify">
 O <b>Jogo do Número Secreto</b> é uma aplicação simples e interativa desenvolvida em JavaScript.  
@@ -34,7 +33,7 @@ O projeto foi desenvolvido como forma de praticar lógica de programação e int
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 :heavy_check_mark: Geração aleatória de um número secreto  
 :heavy_check_mark: Leitura de palpites do usuário via input  
@@ -43,13 +42,13 @@ O projeto foi desenvolvido como forma de praticar lógica de programação e int
 
 ---
 
-## 🚀 Deploy da Aplicação :dash:
+##  Deploy da Aplicação :dash:
 
 🔗 [Acesse o jogo aqui](https://jogo-numero-secreto-amber-ten-93.vercel.app/)
 
 ---
 
-## 💻 Como rodar a aplicação :arrow_forward:
+##  Como rodar a aplicação :arrow_forward:
 
 Você pode jogar diretamente pelo link acima.  
 Mas, se quiser rodar localmente:
@@ -62,7 +61,7 @@ Mas, se quiser rodar localmente:
 
 ---
 
-## 📚 Linguagens, dependencias e libs utilizadas :books:
+##  Linguagens, dependencias e libs utilizadas :books:
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -70,7 +69,8 @@ Mas, se quiser rodar localmente:
 
 ---
 
-## 👩‍💻 Desenvolvedora/Contribuinte :octocat:
+##  Desenvolvedora: :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" width=115><br><sub>Ana Marina Cosendey Garcia</sub>](https://github.com/AnaCosendey) |
+| [<img src="https://avatars.githubusercontent.com/u/167926376?v=4" width=115><br><sub>Ana Marina Cosendey Garcia</sub>](https://github.com/AnaCosendey) |
 | :---: |
+
